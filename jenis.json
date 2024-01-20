@@ -1,0 +1,988 @@
+{
+    "1": null,
+    "2": null,
+    "3": null,
+    "4": null,
+    "5": null,
+    "6": {
+        "name": "Peraturan Perundang-undangan Pusat",
+        "contents": 0
+    },
+    "7": {
+        "name": "Undang-undang Dasar (UUD) Tahun 1945 dan Amandemen",
+        "contents": 1
+    },
+    "8": {
+        "name": "Undang-undang (UU)",
+        "contents": 1749
+    },
+    "9": {
+        "name": "Peraturan Pemerintah Pengganti Undang-Undang (Perpu)",
+        "contents": 170
+    },
+    "10": {
+        "name": "Peraturan Pemerintah (PP)",
+        "contents": 4863
+    },
+    "11": {
+        "name": "Peraturan Presiden (PERPRES)",
+        "contents": 2352
+    },
+    "12": {
+        "name": "Keputusan Presiden (KEPPRES)",
+        "contents": 6919
+    },
+    "13": {
+        "name": "Instruksi Presiden (INPRES)",
+        "contents": 175
+    },
+    "14": {
+        "name": "Peraturan Kementerian / Lembaga",
+        "contents": 0
+    },
+    "15": {
+        "name": "Peraturan Kementerian (PERMEN)",
+        "contents": 0
+    },
+    "16": {
+        "name": "Keputusan Menteri (KEPMEN)",
+        "contents": 0
+    },
+    "17": null,
+    "18": {
+        "name": "Peraturan Perundang-undangan Daerah",
+        "contents": 0
+    },
+    "19": {
+        "name": "Peraturan Daerah (PERDA)",
+        "contents": 48999
+    },
+    "20": {
+        "name": "Peraturan Gubernur (PERGUB)",
+        "contents": 12788
+    },
+    "21": null,
+    "22": null,
+    "23": {
+        "name": "Peraturan Bupati (PERBUP)",
+        "contents": 100534
+    },
+    "24": null,
+    "25": null,
+    "26": null,
+    "27": {
+        "name": "Peraturan Badan Pemeriksa Keuangan",
+        "contents": 38
+    },
+    "28": {
+        "name": "Keputusan Badan Pemeriksa Keuangan",
+        "contents": 5
+    },
+    "29": null,
+    "30": {
+        "name": "Peraturan Walikota (PERWALI)",
+        "contents": 27975
+    },
+    "31": null,
+    "32": null,
+    "33": null,
+    "34": {
+        "name": "Qanun",
+        "contents": 499
+    },
+    "35": {
+        "name": "Peraturan Daerah Khusus Provinsi Papua (PERDASUS PAPUA)",
+        "contents": 33
+    },
+    "36": {
+        "name": "Undang-undang Darurat",
+        "contents": 174
+    },
+    "37": null,
+    "38": {
+        "name": "Peraturan Daerah Istimewa",
+        "contents": 9
+    },
+    "39": {
+        "name": "Ketetapan MPR",
+        "contents": 2
+    },
+    "40": {
+        "name": "Peraturan Menteri Dalam Negeri",
+        "contents": 688
+    },
+    "41": null,
+    "42": {
+        "name": "Peraturan Menteri Keuangan",
+        "contents": 3610
+    },
+    "43": {
+        "name": "Peraturan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan",
+        "contents": 63
+    },
+    "44": null,
+    "45": {
+        "name": "Peraturan Menteri Luar Negeri",
+        "contents": 129
+    },
+    "46": {
+        "name": "Peraturan Menteri Hukum dan HAM",
+        "contents": 442
+    },
+    "47": {
+        "name": "Peraturan Menteri Pertahanan",
+        "contents": 441
+    },
+    "48": {
+        "name": "Peraturan Menteri Perhubungan",
+        "contents": 1160
+    },
+    "49": {
+        "name": "Peraturan Kejaksaan Republik Indonesia",
+        "contents": 49
+    },
+    "50": {
+        "name": "Peraturan Kepala Kepolisian Negara Republik Indonesia",
+        "contents": 5
+    },
+    "51": {
+        "name": "Peraturan Kepala BIN",
+        "contents": 0
+    },
+    "52": {
+        "name": "Peraturan Kepala Badan Narkotika Nasional",
+        "contents": 75
+    },
+    "53": {
+        "name": "Peraturan Kepala Badan Meteorologi, Klimatologi, dan Geofisika",
+        "contents": 63
+    },
+    "54": {
+        "name": "Peraturan Badan Siber dan Sandi Negara",
+        "contents": 48
+    },
+    "55": {
+        "name": "Peraturan Kepala Lembaga Sandi Negara",
+        "contents": 0
+    },
+    "56": {
+        "name": "Peraturan Komisi Nasional Hak Asasi Manusia",
+        "contents": 20
+    },
+    "57": {
+        "name": "Peraturan Sekretaris Jenderal Komisi Nasional Hukum Asasi Manusia",
+        "contents": 0
+    },
+    "58": {
+        "name": "Peraturan Komisi Pemberantasan Korupsi",
+        "contents": 31
+    },
+    "59": {
+        "name": "Peraturan Komisi Pemilihan Umum",
+        "contents": 273
+    },
+    "60": {
+        "name": "Peraturan Badan SAR Nasional",
+        "contents": 0
+    },
+    "61": {
+        "name": "Peraturan Badan Nasional Penanggulangan Terorisme",
+        "contents": 21
+    },
+    "62": {
+        "name": "Peraturan Badan Pengawas Pemilihan Umum",
+        "contents": 196
+    },
+    "63": {
+        "name": "Peraturan Menteri Koordinator",
+        "contents": 0
+    },
+    "64": {
+        "name": "Keputusan Menteri Koordinator",
+        "contents": 0
+    },
+    "65": null,
+    "66": {
+        "name": "Keputusan Menteri Keuangan",
+        "contents": 51
+    },
+    "67": {
+        "name": "Peraturan Menteri Perdagangan",
+        "contents": 903
+    },
+    "68": {
+        "name": "Keputusan Menteri Perdagangan",
+        "contents": 0
+    },
+    "69": {
+        "name": "Peraturan Menteri Perindustrian",
+        "contents": 200
+    },
+    "70": {
+        "name": "Keputusan Menteri Perindustrian",
+        "contents": 0
+    },
+    "71": {
+        "name": "Peraturan Menteri Negara Perencanaan Pembangunan Nasional/Kepala Badan Perencanaan Pembangunan Nasional",
+        "contents": 49
+    },
+    "72": {
+        "name": "Keputusan Menteri Negara Perencanaan Pembangunan Nasional/Kepala Badan Perencanaan Pembangunan Nasional",
+        "contents": 0
+    },
+    "73": {
+        "name": "Peraturan Menteri Koperasi dan Usaha Kecil dan Menengah",
+        "contents": 156
+    },
+    "74": {
+        "name": "Keputusan Menteri Koperasi dan Usaha Kecil dan Menengah",
+        "contents": 0
+    },
+    "75": {
+        "name": "Peraturan Badan Koordinasi Penanaman Modal",
+        "contents": 45
+    },
+    "76": {
+        "name": "Peraturan Kepala Badan Pusat Statistik",
+        "contents": 11
+    },
+    "77": {
+        "name": "Keputusan Kepala Badan Pusat Statistik",
+        "contents": 0
+    },
+    "78": {
+        "name": "Peraturan Bank Indonesia",
+        "contents": 607
+    },
+    "79": {
+        "name": "Surat Edaran Bank Indonesia",
+        "contents": 0
+    },
+    "80": {
+        "name": "Peraturan Otoritas Jasa Keuangan",
+        "contents": 422
+    },
+    "81": {
+        "name": "Peraturan Kepala Pusat Pelaporan dan Analisis Transaksi Keuangan",
+        "contents": 11
+    },
+    "82": {
+        "name": "Surat Edaran Kepala Pusat Pelaporan dan Analisis Transaksi Keuangan",
+        "contents": 0
+    },
+    "83": {
+        "name": "Peraturan Lembaga Penjamin Simpanan",
+        "contents": 41
+    },
+    "84": {
+        "name": "Keputusan Kepala Eksekutif Lembaga Penjamin Simpanan",
+        "contents": 0
+    },
+    "85": {
+        "name": "Peraturan Kepala Badan Standardisasi Nasional",
+        "contents": 75
+    },
+    "86": {
+        "name": "Keputusan Kepala Badan Standardisasi Nasional",
+        "contents": 4
+    },
+    "87": {
+        "name": "Peraturan Kepala Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+        "contents": 107
+    },
+    "88": {
+        "name": "Keputusan Kepala Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+        "contents": 0
+    },
+    "89": {
+        "name": "Peraturan Komisi Pengawas Persaingan Usaha",
+        "contents": 37
+    },
+    "90": {
+        "name": "Keputusan Komisi Pengawas Persaingan Usaha",
+        "contents": 2
+    },
+    "91": null,
+    "92": {
+        "name": "Peraturan Dewan Perwakilan Rakyat",
+        "contents": 23
+    },
+    "93": {
+        "name": "Peraturan Dewan Perwakilan Daerah",
+        "contents": 23
+    },
+    "94": {
+        "name": "Keputusan Dewan Perwakilan Daerah",
+        "contents": 0
+    },
+    "95": {
+        "name": "Peraturan Mahkamah Agung",
+        "contents": 79
+    },
+    "96": {
+        "name": "Surat Edaran Mahkamah Agung",
+        "contents": 0
+    },
+    "97": null,
+    "98": {
+        "name": "Peraturan Mahkamah Konstitusi",
+        "contents": 51
+    },
+    "99": {
+        "name": "Peraturan Komisi Yudisial",
+        "contents": 2
+    },
+    "100": {
+        "name": "Peraturan Menteri Koordinator Bidang Pembangunan Manusia Dan Kebudayaan",
+        "contents": 30
+    },
+    "101": {
+        "name": "Peraturan Menteri Sekretaris Negara Republik Indonesia",
+        "contents": 33
+    },
+    "102": {
+        "name": "Keputusan Sekretaris Kabinet Republik Indonesia",
+        "contents": 0
+    },
+    "103": {
+        "name": "Peraturan Menteri Sosial",
+        "contents": 303
+    },
+    "104": {
+        "name": "Peraturan Menteri Pariwisata Dan Ekonomi Kreatif",
+        "contents": 113
+    },
+    "105": {
+        "name": "Peraturan Menteri Ketenagakerjaan",
+        "contents": 230
+    },
+    "106": {
+        "name": "Peraturan Menteri Komunikasi dan Informatika",
+        "contents": 447
+    },
+    "107": {
+        "name": "Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+        "contents": 699
+    },
+    "108": {
+        "name": "Peraturan Menteri Pemberdayaan Perempuan Dan Perlindungan Anak",
+        "contents": 99
+    },
+    "109": {
+        "name": "Peraturan Menteri Pemuda dan Olahraga",
+        "contents": 73
+    },
+    "110": {
+        "name": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia",
+        "contents": 360
+    },
+    "111": {
+        "name": "Peraturan Menteri Agraria dan Tata Ruang/ Kepala Badan Pertanahan Nasional Republik Indonesia",
+        "contents": 267
+    },
+    "112": {
+        "name": "Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi",
+        "contents": 184
+    },
+    "113": {
+        "name": "Peraturan Badan Pengawas Tenaga Nuklir",
+        "contents": 39
+    },
+    "114": {
+        "name": "Peraturan Kepala Badan Tenaga Nuklir Nasional",
+        "contents": 89
+    },
+    "115": {
+        "name": "Peraturan Kepala Badan Pengkajian Dan Penerapan Teknologi",
+        "contents": 0
+    },
+    "116": {
+        "name": "Peraturan Lembaga Ilmu Pengetahuan Indonesia",
+        "contents": 71
+    },
+    "117": {
+        "name": "Peraturan Kepala Lembaga Penerbangan dan Antariksa Nasional",
+        "contents": 0
+    },
+    "118": {
+        "name": "Peraturan Kepala Perpustakaan Nasional",
+        "contents": 2
+    },
+    "119": {
+        "name": "Peraturan Kepala Badan Nasional Penanggulangan Bencana",
+        "contents": 61
+    },
+    "120": null,
+    "121": {
+        "name": "Peraturan Kepala Badan Kependudukan dan Keluarga Berencana Nasional",
+        "contents": 12
+    },
+    "122": {
+        "name": "Peraturan Kepala Badan Kepegawaian Negara",
+        "contents": 208
+    },
+    "123": {
+        "name": "Peraturan Kepala Badan Pengawasan Keuangan dan Pembangunan",
+        "contents": 30
+    },
+    "124": {
+        "name": "Peraturan Kepala Lembaga Administrasi Negara",
+        "contents": 39
+    },
+    "125": {
+        "name": "Peraturan Kepala Arsip Nasional Republik Indonesia",
+        "contents": 90
+    },
+    "126": {
+        "name": "Peraturan Badan Nasional Penempatan dan Perlindungan Tenaga Kerja Indonesia",
+        "contents": 3
+    },
+    "127": {
+        "name": "Peraturan Direktur Utama Lembaga Penyiaran Publik Radio Republik Indonesia",
+        "contents": 0
+    },
+    "128": {
+        "name": "Peraturan Direksi Lembaga Penyiaran Publik Radio Republik Indonesia",
+        "contents": 0
+    },
+    "129": {
+        "name": "Peraturan Badan Informasi Geospasial",
+        "contents": 80
+    },
+    "130": {
+        "name": "Peraturan Ombudsman Republik Indonesia",
+        "contents": 38
+    },
+    "131": {
+        "name": "Peraturan Ketua Ombudsman Republik Indonesia",
+        "contents": 6
+    },
+    "132": {
+        "name": "Peraturan Kepala Badan Ekonomi Kreatif",
+        "contents": 1
+    },
+    "133": {
+        "name": "Peraturan Menteri Koordinator Bidang Kemaritiman dan Investasi",
+        "contents": 46
+    },
+    "134": {
+        "name": "Peraturan Menteri Pertanian",
+        "contents": 597
+    },
+    "135": {
+        "name": "Keputusan Menteri Pertanian",
+        "contents": 61
+    },
+    "136": {
+        "name": "Instruksi Menteri Pertanian",
+        "contents": 0
+    },
+    "137": {
+        "name": "Keputusan Bersama Menteri Pertanian",
+        "contents": 0
+    },
+    "138": {
+        "name": "Keputusan Direktur Jenderal/Kepala Badan",
+        "contents": 0
+    },
+    "139": {
+        "name": "Peraturan Menteri Kelautan dan Perikanan",
+        "contents": 724
+    },
+    "140": {
+        "name": "Keputusan Menteri Kelautan dan Perikanan",
+        "contents": 211
+    },
+    "141": {
+        "name": "Peraturan Sekretaris Jenderal",
+        "contents": 0
+    },
+    "142": {
+        "name": "Peraturan Dirjen/Ka.Badan/Irjen",
+        "contents": 0
+    },
+    "143": {
+        "name": "Keputusan Sekretaris Jenderal",
+        "contents": 0
+    },
+    "144": {
+        "name": "Keputusan Dirjen/Ka.Badan/Irjen",
+        "contents": 0
+    },
+    "145": {
+        "name": "Surat Edaran",
+        "contents": 0
+    },
+    "146": {
+        "name": "Peraturan Bersama Menteri Kelautan dan Perikanan",
+        "contents": 0
+    },
+    "147": {
+        "name": "Peraturan Menteri Energi dan Sumber Daya Mineral",
+        "contents": 515
+    },
+    "148": {
+        "name": "Keputusan Menteri Energi dan Sumber Daya Mineral",
+        "contents": 2
+    },
+    "149": {
+        "name": "Keputusan Sekjen Energi dan Sumber Daya Mineral",
+        "contents": 0
+    },
+    "150": {
+        "name": "Peraturan dan Keputusan Dirjen",
+        "contents": 0
+    },
+    "151": {
+        "name": "Peraturan BPH Migas",
+        "contents": 0
+    },
+    "152": {
+        "name": "Surat Edaran Menteri Energi Dan Sumber Daya Mineral",
+        "contents": 0
+    },
+    "153": {
+        "name": "Surat Edaran Dirjen Mineral Dan Batubara",
+        "contents": 0
+    },
+    "154": {
+        "name": "Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat",
+        "contents": 376
+    },
+    "155": {
+        "name": "Keputusan Menteri Pekerjaan Umum dan Perumahan Rakyat",
+        "contents": 0
+    },
+    "156": {
+        "name": "Instruksi Menteri Pekerjaan Umum dan Perumahan Rakyat",
+        "contents": 0
+    },
+    "157": {
+        "name": "Surat Edaran Menteri Pekerjaan Umum dan Perumahan Rakyat",
+        "contents": 0
+    },
+    "158": {
+        "name": "Surat Edaran Sekretaris Jenderal Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+        "contents": 0
+    },
+    "159": {
+        "name": "Surat Edaran Direktur Jenderal di lingkungan Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+        "contents": 0
+    },
+    "160": {
+        "name": "Surat Edaran Kepala Biro Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+        "contents": 0
+    },
+    "161": {
+        "name": "Peraturan Menteri Kehutanan",
+        "contents": 0
+    },
+    "162": {
+        "name": "Peraturan Menteri Lingkungan Hidup",
+        "contents": 2
+    },
+    "163": {
+        "name": "Peraturan Menteri Lingkungan Hidup Dan Kehutanan",
+        "contents": 125
+    },
+    "164": null,
+    "165": {
+        "name": "Surat Edaran BPH Migas",
+        "contents": 0
+    },
+    "166": {
+        "name": "Keputusan Kepala Badan Penanggulangan Lumpur Sidoarjo",
+        "contents": 0
+    },
+    "167": null,
+    "168": {
+        "name": "Instruksi Menteri Dalam Negeri",
+        "contents": 10
+    },
+    "169": {
+        "name": "Keputusan Menteri Dalam Negeri",
+        "contents": 25
+    },
+    "170": {
+        "name": "Peraturan Menteri Agama",
+        "contents": 546
+    },
+    "171": {
+        "name": "Keputusan Menteri Agama",
+        "contents": 0
+    },
+    "172": {
+        "name": "Keputusan Dirjen Penyelenggaraan Haji Dan Umrah",
+        "contents": 0
+    },
+    "173": {
+        "name": "Instruksi Menteri Agama",
+        "contents": 0
+    },
+    "174": {
+        "name": "Surat Edaran Menteri Agama",
+        "contents": 0
+    },
+    "175": null,
+    "176": {
+        "name": "Keputusan Bersama",
+        "contents": 0
+    },
+    "177": {
+        "name": "Peraturan Kepala Badan Pengusahaan Kawasan Perdagangan dan Pelabuhan Bebas Sabang",
+        "contents": 1
+    },
+    "178": {
+        "name": "Peraturan Kepala Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam",
+        "contents": 16
+    },
+    "179": {
+        "name": "Peraturan Kepala Bpws",
+        "contents": 0
+    },
+    "180": {
+        "name": "Peraturan Badan Nasional Pengelola Perbatasan",
+        "contents": 2
+    },
+    "181": {
+        "name": "Peraturan Kepala Badan Nasional Pengelola Perbatasan",
+        "contents": 0
+    },
+    "182": {
+        "name": "Peraturan Menteri Kesehatan",
+        "contents": 598
+    },
+    "183": {
+        "name": "Keputusan Menteri Kesehatan",
+        "contents": 27
+    },
+    "184": {
+        "name": "Surat Edaran Menteri Kesehatan",
+        "contents": 1
+    },
+    "185": {
+        "name": "Perjanjian Kerjasama",
+        "contents": 0
+    },
+    "186": {
+        "name": "Peraturan Menteri Pendidikan dan Kebudayaan",
+        "contents": 423
+    },
+    "187": {
+        "name": "Keputusan Menteri Pendidikan dan Kebudayaan;",
+        "contents": 0
+    },
+    "188": {
+        "name": "Instruksi Menteri Menteri Pendidikan dan Kebudayaan;",
+        "contents": 0
+    },
+    "189": {
+        "name": "Surat Edaran Menteri Pendidikan dan Kebudayaan;",
+        "contents": 0
+    },
+    "190": {
+        "name": "Nota Kesepahaman",
+        "contents": 0
+    },
+    "191": {
+        "name": "Kesepakatan Bersama",
+        "contents": 0
+    },
+    "192": {
+        "name": "Peraturan Bersama",
+        "contents": 0
+    },
+    "193": null,
+    "194": {
+        "name": "Surat Edaran Bersama",
+        "contents": 0
+    },
+    "195": {
+        "name": "Peraturan Badan Penyelenggara Jaminan Sosial Kesehatan",
+        "contents": 1
+    },
+    "196": {
+        "name": "Peraturan BPJS Ketenagakerjaan",
+        "contents": 0
+    },
+    "197": null,
+    "198": {
+        "name": "Peraturan Direksi",
+        "contents": 0
+    },
+    "199": {
+        "name": "Peraturan Kepala Badan Pengawas Obat dan Makanan",
+        "contents": 5
+    },
+    "200": {
+        "name": "Keputusan Kepala Badan Pengawas Obat dan Makanan",
+        "contents": 0
+    },
+    "201": {
+        "name": "Petunjuk Teknis",
+        "contents": 0
+    },
+    "202": {
+        "name": "Peraturan Menteri Badan Usaha Milik Negara",
+        "contents": 92
+    },
+    "203": {
+        "name": "Surat Edaran Menteri Badan Usaha Milik Negara",
+        "contents": 0
+    },
+    "204": {
+        "name": "Keputusan Menteri BUMN",
+        "contents": 0
+    },
+    "205": {
+        "name": "Instruksi Menteri BUMN",
+        "contents": 0
+    },
+    "206": {
+        "name": "Keputusan Direksi Badan Usaha Milik Negara",
+        "contents": 0
+    },
+    "207": {
+        "name": "Surat Edaran (SE) Mendagri",
+        "contents": 7
+    },
+    "208": {
+        "name": "Peraturan Menteri Koordinator Bidang Perekonomian",
+        "contents": 110
+    },
+    "209": {
+        "name": "Peraturan Badan Kepegawaian Negara",
+        "contents": 145
+    },
+    "210": {
+        "name": "Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+        "contents": 68
+    },
+    "211": {
+        "name": "Surat Edaran Menteri Dalam Negeri",
+        "contents": 0
+    },
+    "212": {
+        "name": "Surat Edaran Otoritas Jasa Keuangan",
+        "contents": 25
+    },
+    "213": null,
+    "214": {
+        "name": "Surat Edaran",
+        "contents": 0
+    },
+    "215": {
+        "name": "Surat Edaran (SE) Kepala Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+        "contents": 18
+    },
+    "216": {
+        "name": "Surat Edaran Komisi Pemberantasan Korupsi",
+        "contents": 0
+    },
+    "217": {
+        "name": "Keputusan Menteri Ketenagakerjaan",
+        "contents": 0
+    },
+    "218": {
+        "name": "Keputusan Menteri Luar Negeri",
+        "contents": 1
+    },
+    "219": {
+        "name": "Peraturan Menteri Koordinator Bidang Kesejahteraan Rakyat",
+        "contents": 1
+    },
+    "220": null,
+    "221": {
+        "name": "Peraturan Pusat Pelaporan dan Analisis Transaksi Keuangan",
+        "contents": 14
+    },
+    "222": {
+        "name": "Peraturan Kepala Badan Koordinasi Penanaman Modal",
+        "contents": 93
+    },
+    "223": {
+        "name": "Peraturan Badan Pusat Statistik",
+        "contents": 16
+    },
+    "224": {
+        "name": "Peraturan Jaksa Agung",
+        "contents": 52
+    },
+    "225": {
+        "name": "Peraturan Badan Standardisasi Nasional",
+        "contents": 77
+    },
+    "226": {
+        "name": "Peraturan Arsip Nasional Republik Indonesia",
+        "contents": 81
+    },
+    "227": {
+        "name": "Peraturan Badan Narkotika Nasional",
+        "contents": 21
+    },
+    "228": {
+        "name": "Peraturan Badan Tenaga Nuklir Nasional",
+        "contents": 27
+    },
+    "229": {
+        "name": "Peraturan Ketua Komisi Nasional Hak Asasi Manusia",
+        "contents": 2
+    },
+    "230": {
+        "name": "Peraturan Badan Pengawas Obat dan Makanan",
+        "contents": 34
+    },
+    "231": {
+        "name": "Peraturan Badan Meteorologi, Klimatologi, dan Geofisika",
+        "contents": 34
+    },
+    "232": {
+        "name": "Peraturan Lembaga Administrasi Negara",
+        "contents": 63
+    },
+    "233": {
+        "name": "Peraturan Gubernur Lembaga Ketahanan Nasional",
+        "contents": 2
+    },
+    "234": {
+        "name": "Peraturan Kepala Badan Keamanan Laut",
+        "contents": 53
+    },
+    "235": {
+        "name": "Peraturan Badan Keamanan Laut",
+        "contents": 17
+    },
+    "236": {
+        "name": "Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+        "contents": 28
+    },
+    "237": {
+        "name": "Peraturan Sekretaris Kabinet",
+        "contents": 0
+    },
+    "238": {
+        "name": "Peraturan Sekretaris Kabinet Reformasi Birokrasi",
+        "contents": 0
+    },
+    "239": {
+        "name": "Peraturan Badan Nasional Penanggulangan Bencana",
+        "contents": 31
+    },
+    "240": {
+        "name": "Keputusan Kepala Badan Nasional Penanggulangan Bencana",
+        "contents": 1
+    },
+    "241": {
+        "name": "Peraturan Kepolisian Negara Republik Indonesia",
+        "contents": 38
+    },
+    "242": {
+        "name": "Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi",
+        "contents": 97
+    },
+    "243": {
+        "name": "Peraturan Badan Nasional Pencarian dan Pertolongan",
+        "contents": 1
+    },
+    "244": {
+        "name": "Peraturan Badan Intelijen Negara",
+        "contents": 20
+    },
+    "245": {
+        "name": "Peraturan Majelis Permusyawaratan Rakyat",
+        "contents": 2
+    },
+    "246": {
+        "name": "Peraturan Perpustakaan Nasional",
+        "contents": 54
+    },
+    "247": {
+        "name": "Peraturan Badan Pengawasan Keuangan dan Pembangunan",
+        "contents": 45
+    },
+    "248": {
+        "name": "Peraturan Badan Pelindungan Pekerja Migran Indonesia",
+        "contents": 23
+    },
+    "249": {
+        "name": "Keputusan Kepala Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+        "contents": 0
+    },
+    "250": {
+        "name": "Peraturan Sekretariat Jenderal Dewan Ketahanan Nasional",
+        "contents": 11
+    },
+    "251": {
+        "name": "Peraturan Badan Kependudukan dan Keluarga Berencana Nasional",
+        "contents": 65
+    },
+    "252": {
+        "name": "Peraturan Kepala Badan Nasional Penanggulangan Terorisme",
+        "contents": 3
+    },
+    "253": {
+        "name": "Keputusan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi",
+        "contents": 0
+    },
+    "254": {
+        "name": "Peraturan Kepala Badan Pengawas Tenaga Nuklir",
+        "contents": 3
+    },
+    "255": {
+        "name": "Peraturan Badan Riset dan Inovasi Nasional",
+        "contents": 67
+    },
+    "256": {
+        "name": "Peraturan Kepala Badan Informasi Geospasial",
+        "contents": 12
+    },
+    "257": {
+        "name": "Peraturan Badan Pengelola Keuangan Haji",
+        "contents": 0
+    },
+    "258": {
+        "name": "Peraturan Badan Pembinaan Ideologi Pancasila",
+        "contents": 0
+    },
+    "259": null,
+    "260": null,
+    "261": null,
+    "262": null,
+    "263": null,
+    "264": null,
+    "265": null,
+    "266": null,
+    "267": null,
+    "268": null,
+    "269": null,
+    "270": null,
+    "271": null,
+    "272": null,
+    "273": null,
+    "274": null,
+    "275": null,
+    "276": null,
+    "277": null,
+    "278": null,
+    "279": null,
+    "280": null,
+    "281": null,
+    "282": null,
+    "283": null,
+    "284": null,
+    "285": null,
+    "286": null,
+    "287": null,
+    "288": null,
+    "289": null,
+    "290": null,
+    "291": null,
+    "292": null,
+    "293": null,
+    "294": null,
+    "295": null,
+    "296": null,
+    "297": null,
+    "298": null,
+    "299": null
+}

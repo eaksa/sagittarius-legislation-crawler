@@ -1,0 +1,23 @@
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poe.tasks]
+install = "poetry install"
+test = "pytest"
+
+[tool.poetry]
+name = "sagittarius-legislation-crawler"
+version = "0.0.0"
+description = "Crawler utils for Sagittarius's legislation pipeline."
+# Add your name here!
+authors = ["Elang Adhyaksa <elang@legis.id>"]
+
+[tool.poetry.dependencies]
+python = "~=3.11"
+neo4j = "~=5.15"
+selenium = "~=4.16"
+webdriver-manager = "~=4.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "~=7.4"
